@@ -601,11 +601,10 @@ header {
 }
 
 .submit-btn {
-  margin-left: auto!important;
-  margin-right: auto!important;
   padding: 10px;
   margin-top: 15px;
   font-size: 15px!important;
+  display: block!important;
 }
 
 .submit-btn:hover {
@@ -793,6 +792,13 @@ a{
     .granny-wrapper {
         padding-bottom: 400px!important;
     }
+
+    .input,
+    #message {
+        width: 95%;
+    }
+
+    
 }
 
 @media (max-width: 678px) {
@@ -837,6 +843,20 @@ a{
 
     .work-container {
         width: 95%;
+    }
+    
+    .form-email {
+        width: 350px!important;
+    }
+
+    .contact-content {
+        width: 95%;
+    }
+}
+
+@media (max-width: 500px) {
+    .line-3 {
+        font-size: 15px!important;
     }
 }
 
