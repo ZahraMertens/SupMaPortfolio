@@ -530,7 +530,7 @@ header {
 
 #mario-gif {
     position: absolute;
-    width: 300px;
+    width: 400px!important;
     bottom: 0px;
     left: 0px;
     z-index: 5;
@@ -630,7 +630,7 @@ footer {
 
 .footer-header {
   font-size: 50px!important;
-  padding-top: 100px;
+  padding-top: 150px;
   font-weight: bold!important;
   padding-bottom: 20px;
   font-family: 'Bungee Shade'!important;
