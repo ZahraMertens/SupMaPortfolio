@@ -1,5 +1,6 @@
 ## General Information
 
+<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
 
 The deployed Webpage is my Portfolio to showcase my work, introduce myself and give the user the posibility to contact through multiple channels such as LinkedIn, GitHub, Facebook or Email.
 
