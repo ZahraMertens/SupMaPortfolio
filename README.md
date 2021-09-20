@@ -1,8 +1,9 @@
-## General Information
-
+# My Portfolio
 <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"/>
 
-The deployed Webpage is my Portfolio to showcase my work, introduce myself and give the user the posibility to contact through multiple channels such as LinkedIn, GitHub, Facebook or Email.
+## General Information
+
+The deployed webpage is my professional portfolio as a web developer to introduce myself, showcase my skills and give a possible employer the opportunity to contact me via the available social media platforms or email.
 
 * [Deployed URL of my Portfolio](https://zahramertens.github.io/SupMaPortfolio/)
 * [URL of the GitHub Repo](https://github.com/ZahraMertens/SupMaPortfolio.git)
@@ -15,11 +16,11 @@ The deployed Webpage is my Portfolio to showcase my work, introduce myself and g
 6. [Credits](#credits)
 
 
-## Task Describtion
+## User Story
 
-As a potential employer I want to get an impression of the developer to see project examples and contact information.
+As a potential employer I want to get an impression of the web developer.
 
-The portfolio is supposed to showcase the web developers skills and work that a potential employer or any other user can get an impression of the developers knowledge and qualifications. 
+The portfolio displays useful data, showcases skills and technologies of the web developer and gives a first impression.
 
 
 ## Technology used
